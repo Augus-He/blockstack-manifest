@@ -1,7 +1,7 @@
 {
   "name": "TokenGazer",
   "short_name": "TokenGazer",
-  "start_url": "http://192.168.50.171:8080/#/",
+  "start_url": "localhost:8080",
   "icons": [
     {
       "src": "http://localhost:8080/static/img/icons/android-chrome-192x192.png",
